@@ -1,2 +1,2 @@
 # jenpaulino3.github.io
-HTML/CSS Code Challgne for The Knowledge House
+HTML/CSS Code Challenge for The Knowledge House
