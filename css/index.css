@@ -3,7 +3,8 @@ body {
 	background-color: #F1A9A0;
 }
 
-.container {margin-top: 50px;width: 600px;}
+/*.container {margin-top: 50px;width: 600px;}*/
+.container {margin-top: 50px;}
 
 h1, h2, h3, i, a {
   font-family: 'Handlee', cursive;
@@ -13,7 +14,7 @@ h1, h2, h3, i, a {
 a, h2, #social h3 {font-weight: bold;}
 p {font-size: 18px;}
 
-#about img {height: 200px;}
+#about img, #games img {height: 300px;}
 img {border:5px solid #F1A9A0;}
 
 .thumbnail {background-color: #fcedec;}
@@ -23,3 +24,6 @@ img {border:5px solid #F1A9A0;}
 #social i {color: #F1A9A0;font-weight: bold;}
 
 #games i{color:#F1A9A0;}
+
+#favs img {margin-top: 15px;}
+#favs h2 {margin-top: 25px;}
