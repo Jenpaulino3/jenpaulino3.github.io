@@ -23,6 +23,7 @@ img {border:5px solid #F1A9A0;}
 
 #social .row {padding-top: 10px;}
 #social i {color: #F1A9A0;font-weight: bold;}
+#social i:hover, a:hover {color: #BA55D3;}
 
 #games i{color:#F1A9A0;}
 
