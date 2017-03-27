@@ -12,7 +12,11 @@ h1, h2, h3 {
 }
 .container {
   margin-top: 50px;
-  width: 600px;
+  /*width: 600px;*/
+}
+
+.card {
+	width: 600px;
 }
 
 .thumbnail {
